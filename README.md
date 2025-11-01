@@ -33,7 +33,7 @@ The **Super Store Sales Dashboard** is an interactive Power BI project designed 
 
 ## 🖼️ Screenshots / Demos  
 ### Dashboard Overview  
-![Super Store Sales Dashboard](SuperStore%20Sales%20DataSet%201.png)
+![Super Store Sales Dashboard]([SuperStore%20Sales%20DataSet%201.png](https://github.com/santunandi95/SuperStore-Sales-PowerBI-Dashboard/blob/main/SuperStore%20Sales%20DataSet%201.png))
 
 ---
 
