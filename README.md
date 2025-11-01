@@ -49,4 +49,4 @@ The **Super Store Sales Dashboard** is an interactive Power BI project designed 
 **Santu Nandi**  
 _Data Analyst & AI Enthusiast_  
 
-🔗 [GitHub Profile](https://github.com/sant) | 📊 Power BI Projects | 💬 Data & AI Learning Journey
+🔗 [GitHub Profile]([https://github.com/sant](https://github.com/santunandi95)) | 📊 Power BI Projects | 💬 Data & AI Learning Journey
